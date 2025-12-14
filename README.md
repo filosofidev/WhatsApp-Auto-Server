@@ -19,4 +19,4 @@ Kekurangan :
 3. Untuk keaktifan dalam sebuah group harus hafal dengan nama groupnya.
 4. Membuka group secara otomatis terkadang masih stuck.
 
-Konfigurasi dalam tahap pengembangan ini dipergunakan secara pribadi. Bebas untuk digunakan kembali dan dikembangkan.
+Konfigurasi dalam tahap pengembangan ini dipergunakan secara pribadi. Bebas untuk digunakan kembali dan dikembangkan. Bekerja pada versi PHP 8.2
